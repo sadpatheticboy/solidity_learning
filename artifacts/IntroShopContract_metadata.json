@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"IntroShopContract.sol": "Shop"
+			"IntroShopContract.sol": "IntroShopContract"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -85,11 +85,11 @@
 	},
 	"sources": {
 		"IntroShopContract.sol": {
-			"keccak256": "0xa864214f0fd902b9b5c46b3bc2cc1df0c90bf8d9a41cb1ed4a80dde744806dc7",
+			"keccak256": "0xa525a2fe76f930206dea8e8cda8eb7472c526a771d686099dba60e00e537bd2e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1ff51f09b2d3df1810eca4844b5e9cca73f73659c75b5e048b53750f379ba550",
-				"dweb:/ipfs/QmPpHfLsnhLyXFD97NxBfbBXvHjEwNgWXJ1uS33cqomaNK"
+				"bzz-raw://9b50cd567396aac0639db35da95d05f866f5655f876e71463b88ad0b2b987aa4",
+				"dweb:/ipfs/QmeTzkfgxtYtZ1JhMJi8W9fG7Ty3W8ith18XWYxEgewBhG"
 			]
 		}
 	},
