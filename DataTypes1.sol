@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Some {
+contract DataTypes1 {
     // unsigned integers
     uint public myUint = 42; // uint = uint256 (2 ** 256)
     uint8 public mySmallUint = 2; // min=0 -> max=(2 ** (256-1))

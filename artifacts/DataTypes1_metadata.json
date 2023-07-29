@@ -91,7 +91,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"DataTypes1.sol": "Some"
+			"DataTypes1.sol": "DataTypes1"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -106,11 +106,11 @@
 	},
 	"sources": {
 		"DataTypes1.sol": {
-			"keccak256": "0x13173ea1e24fd099436fcff031da4933a3f0ee0308125eaad32bad8da90f9cc6",
+			"keccak256": "0x2df2d0641d9d96ccc85f4bce33e360efe2f756fe99e81215da62fef74524e21c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2bba3125e972814e3df649f472736c547a6200efdd5c2ad4e48745281b954704",
-				"dweb:/ipfs/QmTApJ7j3ubiLVm6sAjpAaU71ZDiYMqSUPzu9omAsjP4CR"
+				"bzz-raw://ebc919b09b24184a306ebaf65b3d51fd18d2a931ccd64c9a0ef6325b6d766a9a",
+				"dweb:/ipfs/QmdFNcEGK89kig6nBWonZXcEZVAmcrsW3t8daHZqdkgTvj"
 			]
 		}
 	},
